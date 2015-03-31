@@ -1,0 +1,26 @@
+---
+layout: meeting
+title:  "TechTown / The State of Community Mapping In Detroit"
+date:   2014-11-03 18:00:00
+location: TechTown
+author: Alex
+---
+
+## Recap:
+
+We listened to several different speakers talk about maps in their work. Afterwards, we hung out and made some hand drawn maps.
+
+## Speakers:
+
+* Data Driven Detroit / MCM - Diana Flora
+* Loveland - Jerry Paffendorf
+* Community Development Advocates of Detroit - Aaron Goodman
+* Detroit Future City - Erin Kelly
+* Work Department - Nina Bianchi
+* Eastern Market - Fiona Ruddy
+* Detroit Water Brigade - Justin Wedes
+* SEMCOG - Jimmy McBroom
+
+## Presentations:
+
+* Jimmy McBroom

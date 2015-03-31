@@ -1,0 +1,17 @@
+---
+layout: meeting
+title:  "Loveland / Open Data Drive"
+date:   2015-03-31 18:00:00
+location: Loveland Technologies (1541 Washington Blvd)
+author: Jimmy
+---
+
+## Speakers:
+
+* Diana Flora - open data
+* Jimmy McBroom - data file formats
+
+## Presentations:
+
+* [Diana Flora](http://www.google.com)
+* [Jimmy McBroom](http://www.google.com)

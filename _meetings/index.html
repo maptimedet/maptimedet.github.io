@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Past Meetings:</h1>
+
+  <ul class="meeting-list">
+    {% for meeting in site.meetings %}
+      <li>
+        <span class="meeting-meta">{{ meeting.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="meeting-link" href="{{ meeting.url | prepend: site.baseurl }}">{{ meeting.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

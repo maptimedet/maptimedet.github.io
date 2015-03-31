@@ -1,0 +1,21 @@
+---
+layout: meeting
+title:  "SEMCOG / OpenStreetMap"
+date:   2015-02-24 19:39:02
+location: SEMCOG
+author: Jimmy
+---
+
+## Recap:
+
+We listened to a couple talks, ate pizza, and hung out and edited OSM!
+
+## Speakers:
+
+* Jimmy McBroom - web mapping basics
+* Dexter Slusarski - introduction to OpenStreetMap
+
+## Presentations:
+
+* Jimmy McBroom
+* Dexter Slusarski

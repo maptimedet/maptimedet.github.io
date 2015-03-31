@@ -4,4 +4,10 @@ title: OpenStreetMap
 permalink: /osm/
 ---
 
-Talk about OSM here.
+## Maptime Detroit on OSM:
+
+| person           | OSM username |
+|:------------------|-------------:|
+| Jimmy McBroom    |     jmcbroom |
+| Dexter Slusarski |    dexterslu |
+| Alex Hill        |    alexbhill |
