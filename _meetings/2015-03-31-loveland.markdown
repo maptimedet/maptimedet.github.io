@@ -13,5 +13,5 @@ author: Jimmy
 
 ## Presentations:
 
-* [Diana Flora](http://www.google.com)
+* [Diana Flora](https://speakerdeck.com/jmcbroom/open-data)
 * [Jimmy McBroom](http://jayarem.neocities.org/fileformats.html)
