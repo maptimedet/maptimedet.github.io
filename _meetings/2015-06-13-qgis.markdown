@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title:  "Intro to QGIS!"
-date:   2015-06-15 10:00:00
+date:   2015-06-13 10:00:00
 location: Grand River WorkPlace (19120 Grand River Ave) 
 author: Chelsea
 ---
