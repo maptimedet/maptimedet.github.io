@@ -14,5 +14,6 @@ Tools:
 
 
 Other Resources:
+
 * [GIS Devs/The Spatial Community Slack](http://get.maptiks.com/gisdevs-on-slack/)
 * [OSM taginfo](https://taginfo.openstreetmap.org/)
