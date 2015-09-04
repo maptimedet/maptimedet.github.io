@@ -1,0 +1,8 @@
+---
+layout: meeting
+title:  "MapLift! Let's get together and improve maps on Wikipedia"
+date:   2015-09-01 17:00:00
+location: Loveland Technologies (1541 Washington Blvd)
+author: Chelsea
+---
+## [Meetup Page](http://www.meetup.com/Maptime-Detroit/events/224560364/)
